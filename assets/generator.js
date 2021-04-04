@@ -5,8 +5,9 @@ function generate(){
   //var bread = seperateByKomma(breads);
   Sandwich = get(breads)
   + " filled with"
+  + get(meat) + ","
   + get(vegs) + ","
-  + get(cheese) + " and"
+  + get(cheese) +" cheese" " and"
   + get(sauces);
 
   document.getElementById("out").innerHTML = Sandwich;
