@@ -1,20 +1,35 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
+
 <head>
-<title>Sandwich Generator</title>
-
-<script src="assets/generator.js"></script>
-<script src="assets/ingrediens.js"></script>
-<file id="breads" src="breads.txt">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <title>Sandwiches</title>
+    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Alatsi">
+    <link rel="stylesheet" href="assets/css/styles.css">
 </head>
+
 <body>
-<div>
-<h1 id "headline" >Your Sandwich</h1>
-
-<h1 class ="prompt" id="out" >...</h1>
-
-<button class="button" id="mainButton" onclick="generate()"> Generate!</button>
-</div
+    <section style="background: #b4b4b4;width: 100%;height: 100vh;margin: auto;">
+        <div class="container text-center" style="height: 100%;margin: auto;padding: 10%;">
+            <div class="row" id="row1">
+                <div class="col-md-12">
+                    <h1 style="font-size: 60px;font-family: Alatsi, sans-serif;">Sandwich Generator</h1>
+                    <p style="font-size: 25px;font-family: Alatsi, sans-serif;">Generate your Sandwich&nbsp;</p>
+                </div>
+            </div>
+            <div class="row text-center justify-content-center align-items-center" id="row1">
+                <div class="col-md-12">
+                    <p id="out" style="font-size: 26px;text-align: center;font-family: Alatsi, sans-serif;">Your Sandwich is:</p><button class="btn btn-primary btn-lg" id="button" type="button" style="width: 40%;height: 15%;text-align: center;font-family: Alatsi, sans-serif;margin: auto;" onclick="generate()">Generate</button>
+                </div>
+            </div>
+        </div>
+    </section>
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+    <script src="assets/js/generator.js"></script>
+    <script src="assets/js/ingrediens.js"></script>
 </body>
 
 </html>
