@@ -3,7 +3,11 @@ var Sandwich = "basic"
 
 function generate(){
   //var bread = seperateByKomma(breads);
-  Sandwich = get(breads)
+  var bread = get(breads);
+  if (bread.search("Bread")<0) {
+    bread = bread + "Bread";
+  }
+  Sandwich = bread
   + " filled with"
   + get(meat) + ","
   + get(vegs) + ","
