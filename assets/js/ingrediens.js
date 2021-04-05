@@ -3,4 +3,4 @@ var vegs =" Cucumbers, Green Peppers, Lettuce, Red Onions, Spinach, Tomatoes, Av
 var cheese =" Feta, Mozzarella, Cheddar, Pepperjack, Provolone, Swiss, Parmesan, Emmental, Gouda, Brie, Camembert, Gorgonzola, Mountain";
 var sauces =" Chipotle Southwest Sauce, Mayonnaise, Ranch Sauce, Oil, Vinaigrette, Soy Sauce, Cocktail Sauce, Barbecue Sauce, Buffalo Sauce, Creamy Italian Sauce, Golden Italian Sauce, Honey Mustard Sauce, Savory Caesar Sauce, Sriracha Sauce, Tzatziki Cucumber, Mustard, Vinegar, Sweet Onion Sauce, Guacamole, Ketchup, Peanut Sauce, Salsa"
 var meat =" Bacon, Pepperoni, Salami, Ham, Roast Beef, Turkey Breast, Carved Turkey, Tuna, Teriyaki Chicken, Rotisserie Chicken, Chicken Strips, Roasted Chicken, Meatballs, Steak, Cold Cuts, Corned Beef, Smoked Salmon"
-var egg =" Omelete, Fried Eggs, Soft Boiled Eggs, Hard Boiled Eggs, Scrambled Eggs,"
+var egg =" Omelete, Fried Eggs, Soft Boiled Eggs, Hard Boiled Eggs, Scrambled Eggs"
