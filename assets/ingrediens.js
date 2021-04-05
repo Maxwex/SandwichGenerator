@@ -1,5 +1,6 @@
-var breads =" Hearty Italian, 9-Grain Honey Oat, Jalapeño Cheese, Monterey Cheddar, Parmesan Oregano, Roasted Garlic, Rosemary & Sea Salt, Rye Bread, Gluten-Free Bread, 9-Grain Wheat, Multi-grain Flatbread, Italian, Italian Herbs & Cheese, Flatbread"
-var vegs =" Cucumbers, Green Peppers, Lettuce, Red Onions, Spinach, Tomatoes, Avocado, Carrots, Guacamole, Sweet Peppers, Banana Peppers, Jalapeños, Black Olives, Pickles "
-var cheese =" Feta, Mozzarella, Cheddar, Pepperjack, Provolone, Swiss";
-var sauces =" Chipotle Southwest, Mayonnaise, Ranch, Oil, Vinaigrette, Barbecue, Buffalo, Creamy Italian, Golden Italian, Honey Mustard, Savory Caesar, Sriracha, Tzatziki Cucumber, Mustard, Vinegar, Sweet Onion"
-var meat =" Pepperoni, Salami, Ham, Roast Beef, Turkey Breast, Carved Turkey, Tuna, Teriyaki Chicken, Rotisserie Chicken, Chicken Strips, Roasted Chicken, Meatballs, Steak, Cold Cuts, Corned Beef"
+var breads =" Hearty Italian, 9-Grain Honey Oat, Jalapeño Cheese, Monterey Cheddar, Toast, Parmesan Oregano, Roasted Garlic, Rosemary & Sea Salt, Rye Bread, Gluten-Free Bread, 9-Grain Wheat, Multi-grain Flatbread, Italian, Italian Herbs & Cheese, Flatbread, Sourdough"
+var vegs =" Cucumbers, Green Peppers, Lettuce, Red Onions, Spinach, Tomatoes, Avocado, Carrots, Sweet Peppers, Banana Peppers, Jalapeños, Black Olives, Pickles, Green Onions"
+var cheese =" Feta, Mozzarella, Cheddar, Pepperjack, Provolone, Swiss, Parmesan, Emmental, Gouda, Brie, Camembert, Gorgonzola, Mountain";
+var sauces =" Chipotle Southwest Sauce, Mayonnaise, Ranch Sauce, Oil, Vinaigrette, Soy Sauce, Cocktail Sauce, Barbecue Sauce, Buffalo Sauce, Creamy Italian Sauce, Golden Italian Sauce, Honey Mustard Sauce, Savory Caesar Sauce, Sriracha Sauce, Tzatziki Cucumber, Mustard, Vinegar, Sweet Onion Sauce, Guacamole, Ketchup, Peanut Sauce, Salsa"
+var meat =" Bacon, Pepperoni, Salami, Ham, Roast Beef, Turkey Breast, Carved Turkey, Tuna, Teriyaki Chicken, Rotisserie Chicken, Chicken Strips, Roasted Chicken, Meatballs, Steak, Cold Cuts, Corned Beef, Smoked Salmon "
+var egg =" Omelete, Fried Eggs, Soft Boiled Eggs, Hard Boiled Eggs, Scrambled Eggs,"
