@@ -11,7 +11,7 @@ function generate(){
   + " filled with"
   + get(meat) + ","
   + get(vegs) + ","
-  + get(cheese) +" cheese" " and"
+  + get(cheese) + " cheese"+ " and"
   + get(sauces);
 
   document.getElementById("out").innerHTML = Sandwich;
